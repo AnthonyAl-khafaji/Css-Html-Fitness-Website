@@ -1,0 +1,103 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+
+h2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav {
+    text-align: center;
+}
+figure {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: auto; /* change from 60px to auto */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 20px;
+}
+
+
+audio {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+audio {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+#Video {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+figcaption {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.HomeFooter {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 10px;
+    height: 120px;
+}
+
+.NutrientFooter {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 10px;
+    height: 125px;
+}
+
+.SupplementFooter {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 10px;
+    height: 120px;
+}
+
+.WOR {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 10px; 
+    height: 120px;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    font-size: 20px;
+    padding: 20px;
+}
